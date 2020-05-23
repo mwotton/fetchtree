@@ -1,3 +1,3 @@
-# Changelog for hstemplate
+# Changelog for fetchtree
 
 ## Unreleased changes

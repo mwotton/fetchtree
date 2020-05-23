@@ -1,7 +1,7 @@
--- Revert hstemplate:appschema from pg
+-- Revert fetchtree:appschema from pg
 
 BEGIN;
 
-drop schema hstemplate;
+drop schema fetchtree;
 
 COMMIT;

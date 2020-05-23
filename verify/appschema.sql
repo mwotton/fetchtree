@@ -1,4 +1,4 @@
--- Verify hstemplate:appschema on pg
+-- Verify fetchtree:appschema on pg
 
 BEGIN;
 

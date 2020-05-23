@@ -1,7 +1,7 @@
--- Deploy hstemplate:appschema to pg
+-- Deploy fetchtree:appschema to pg
 
 BEGIN;
 
-create schema "hstemplate";
+create schema "fetchtree";
 
 COMMIT;
